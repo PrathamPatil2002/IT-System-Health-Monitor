@@ -77,7 +77,7 @@ IT-System-Health-Monitor/
 
 **Live Demo:** Add your deployed website URL here.
 
-**GitHub Repository:** https://github.com/YOUR-USERNAME/IT-System-Health-Monitor
+**GitHub Repository:** https://github.com/PrathamPatil2002/IT-System-Health-Monitor
 
 ## Purpose
 
