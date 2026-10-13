@@ -75,7 +75,7 @@ IT-System-Health-Monitor/
 
 ## Live Demo
 
-**Live Demo:** Add your deployed website URL here.
+**Live Demo:** https://it-system-health-monitor-2.onrender.com
 
 **GitHub Repository:** https://github.com/PrathamPatil2002/IT-System-Health-Monitor
 
