@@ -1,6 +1,13 @@
  # IT System Health Monitor
 <img width="1339" height="645" alt="System Health " src="https://github.com/user-attachments/assets/00e5d1f3-c7a8-4e58-9537-edc2d77c6bc7" />
 
+
+## Live Demo
+
+**Live Demo:** https://it-system-health-monitor-2.onrender.com
+
+**GitHub Repository:** https://github.com/PrathamPatil2002/IT-System-Health-Monitor
+
 **IT System Health Monitor** – Developed a web-based dashboard using Python, Flask, and psutil to monitor CPU, memory, disk usage, network traffic, and system information in real time. Features a clean interface with system health indicators and performance warnings.
 
 
@@ -71,13 +78,6 @@ IT-System-Health-Monitor/
 
    `http://127.0.0.1:5000`
 
-
-
-## Live Demo
-
-**Live Demo:** https://it-system-health-monitor-2.onrender.com
-
-**GitHub Repository:** https://github.com/PrathamPatil2002/IT-System-Health-Monitor
 
 ## Purpose
 
