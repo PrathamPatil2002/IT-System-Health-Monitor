@@ -83,6 +83,13 @@ IT-System-Health-Monitor/
 
 This project demonstrates practical skills in Python development, system monitoring, web development, and IT troubleshooting.
 
-## Author
+## 📬 Contact
 
 **Pratham Laxman Patil**
+- Phone no: +917385202939
+- Email: prathamlpatil837@gmail.com   
+- Location: Pune,Maharashtra,India 
+- GitHub: https://github.com/PrathamPatil2002
+- LinkedIn: https://www.linkedin.com/in/pratham-patil-3a8ba9282/
+
+⭐ If you like this project, don't forget to star the repository!
